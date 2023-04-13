@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sachin Shewale</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img src="https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" data-canonical-src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
+ <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin6565&label=Profile%20views&color=0e75b6&style=flat" alt="sachin6565" /> </p>
 
 - 📫 How to reach me **sachinshewale420@gmail.com**
